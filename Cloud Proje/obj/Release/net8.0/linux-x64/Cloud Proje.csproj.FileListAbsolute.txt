@@ -1,0 +1,31 @@
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\bin\Release\net8.0\linux-x64\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\bin\Release\net8.0\linux-x64\Amazon.Lambda.Core.dll
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\bin\Release\net8.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\bin\Release\net8.0\linux-x64\Newtonsoft.Json.dll
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\obj\Release\net8.0\linux-x64\Cloud Proje.csproj.AssemblyReference.cache
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\obj\Release\net8.0\linux-x64\Cloud Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\obj\Release\net8.0\linux-x64\Cloud Proje.AssemblyInfoInputs.cache
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\obj\Release\net8.0\linux-x64\Cloud Proje.AssemblyInfo.cs
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\obj\Release\net8.0\linux-x64\Cloud Proje.csproj.CoreCompileInputs.cache
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\obj\Release\net8.0\linux-x64\Cloud Pr.CCCAB7C1.Up2Date
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\obj\Release\net8.0\linux-x64\Cloud Proje.genruntimeconfig.cache
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\bin\Release\net8.0\linux-x64\CloudProje.deps.json
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\bin\Release\net8.0\linux-x64\CloudProje.runtimeconfig.json
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\bin\Release\net8.0\linux-x64\CloudProje.dll
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\bin\Release\net8.0\linux-x64\CloudProje.pdb
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\obj\Release\net8.0\linux-x64\CloudProje.dll
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\obj\Release\net8.0\linux-x64\refint\CloudProje.dll
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\obj\Release\net8.0\linux-x64\CloudProje.pdb
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\obj\Release\net8.0\linux-x64\ref\CloudProje.dll
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\bin\Release\net8.0\linux-x64\UglyToad.PdfPig.Core.dll
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\bin\Release\net8.0\linux-x64\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\bin\Release\net8.0\linux-x64\UglyToad.PdfPig.Fonts.dll
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\bin\Release\net8.0\linux-x64\UglyToad.PdfPig.Package.dll
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\bin\Release\net8.0\linux-x64\UglyToad.PdfPig.Tokenization.dll
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\bin\Release\net8.0\linux-x64\UglyToad.PdfPig.Tokens.dll
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\bin\Release\net8.0\linux-x64\UglyToad.PdfPig.dll
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\bin\Release\net8.0\linux-x64\AWSSDK.BedrockRuntime.dll
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\bin\Release\net8.0\linux-x64\AWSSDK.Core.dll
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\bin\Release\net8.0\linux-x64\AWSSDK.DynamoDBv2.dll
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\bin\Release\net8.0\linux-x64\Amazon.Lambda.S3Events.dll
+C:\Users\HPPC\source\repos\Cloud Proje\Cloud Proje\bin\Release\net8.0\linux-x64\AWSSDK.S3.dll
