@@ -1,0 +1,12 @@
+# Gereksiz derleme dosyalari
+bin/
+obj/
+.vs/
+.vscode/
+
+# Kullanici ayarlari
+*.user
+*.suo
+
+# AWS gizli bilgileri icerebilecek dosyalar
+aws-lambda-tools-defaults.json
